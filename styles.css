@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    font-family: Arial, sans-serif;
+    background-color: #D5DCF9;
+    color: #333;
+    height: 100vh;
+    width: 100%;
+}
+.currency-heading{
+    text-align: center;
+    margin: 20px;
+    margin-top: 100px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: #2C3E50;
+}
+.currency-card{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+}
+.input-heading{
+    font-size: 20px;
+    font-weight: bold;
+    color: #34495E;
+    margin-left: 10px;
+}
+.input{
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #BDC3C7;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.currency-select{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.flag{
+    width: 40px;
+    height: 40px;
+}
+.currency-select-dropdown{
+    margin: 10px;
+}
+.currency-result{
+    margin-top: 20px;
+    font-size: 18px;
+    color: #2C3E50;
+    text-align: center;
+    font-weight: bold;
+}
